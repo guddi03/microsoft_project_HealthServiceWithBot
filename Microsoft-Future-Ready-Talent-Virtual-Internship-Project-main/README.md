@@ -2,7 +2,7 @@
 
 
 # [PARADISE HOSPITALS Website with Healthbot]
-Project Link :
+Project Link :https://lemon-forest-02ca07d00.3.azurestaticapps.net
 
 Demo Video :
 
